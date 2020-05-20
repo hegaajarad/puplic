@@ -1,5 +1,3 @@
 <Response>
-<Speak>
-Congratulations! You've made your first outbound call!
-</Speak>
+    <Play>https://s3.amazonaws.com/plivocloud/Trumpet.mp3</Play>
 </Response>
